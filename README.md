@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kevinsoffera
-- 👀 I’m interested in learning to code for more career paths in and out of geosciences. I'd also like to learn applications for art.
+- 👀 I’m interested in learning to code for more career paths in and out of geosciences.
 - 🌱 I’m currently learning beginner python.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... kevinsoffera@gmail.com
